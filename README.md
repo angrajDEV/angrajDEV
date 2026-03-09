@@ -15,10 +15,25 @@ I enjoy solving real-world problems using data and building projects that tell a
 
 ## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white)
+🛠️ Skills & Tools
+Languages & Data
+Show Image
+Show Image
+Data Science & ML
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Deployment & Tools
+Show Image
+Show Image
+Show Image
+Show Image
+Environment
+Show Image
+Show Image
 
 ---
 
