@@ -1,4 +1,4 @@
-# Hi there, I'm Nimmu! 👋
+# Hi there, I'm ANGRAJ! 👋
 
 👨‍💻 Aspiring Data Scientist | Master's Graduate  
 Passionate about turning raw data into meaningful insights.  
