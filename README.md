@@ -6,9 +6,9 @@ I enjoy solving real-world problems using data and building projects that tell a
 
 ---
 
-✨ Creating bugs since 2023
+✨ Creating bugs since 2023  
 📚 I'm currently learning Deep Learning & Neural Networks  
-🎯 Goals: Land my first Data Science Job/Internship in 2026
+🎯 Goals: Land my first Data Science Job/Internship in 2026  
 🎲 Fun fact: I debug better at midnight than at noon 🌙  
 
 ---
